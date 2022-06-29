@@ -1,0 +1,12 @@
+C:\Users\robsn\source\repos\Clientik\Clientik\bin\Debug\Clientik.exe.config
+C:\Users\robsn\source\repos\Clientik\Clientik\bin\Debug\Clientik.exe
+C:\Users\robsn\source\repos\Clientik\Clientik\bin\Debug\Clientik.pdb
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.csproj.AssemblyReference.cache
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.csproj.SuggestedBindingRedirects.cache
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.Form1.resources
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.Form2.resources
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.Properties.Resources.resources
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.csproj.GenerateResource.cache
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.csproj.CoreCompileInputs.cache
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.exe
+C:\Users\robsn\source\repos\Clientik\Clientik\obj\Debug\Clientik.pdb
